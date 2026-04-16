@@ -12,15 +12,18 @@ Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query Editor
 Microsoft Excel / CSV Files
+
 📂 Data Source
 Public datasets from WHO (World Health Organization)
 Kaggle COVID-19 datasets
-Government health data portals
+Government health data 
+
 ✨ Features / Highlights
 📊 Interactive dashboard with slicers and filters
 📈 Time-series analysis of COVID-19 cases
 🌍 Country-wise and region-wise comparison
 📉 KPIs showing total confirmed, recovered, and death cases
+
 📊 Multiple visualizations:
 Line Chart
 Stacked Bar Chart
@@ -29,7 +32,7 @@ Area Chart
 Pie Chart
 Ribbon Chart
 Waterfall Chart
-🔄 Bookmark navigation (Intro page to Main dashboard)
+
 📌 Dynamic DAX measures for real-time calculations
 Interact with filters, slicers, and visuals
 📌 Insights
@@ -43,6 +46,7 @@ Monitor recovery and mortality rates
 Identify high-risk countries/regions
 Analyze trends over time for better decision-making
 Enable quick filtering by date, country, and case type
+
 💡 Key Insights
 📈 Significant spikes observed during specific time periods (waves)
 🌍 Certain countries show higher recovery rates compared to others
