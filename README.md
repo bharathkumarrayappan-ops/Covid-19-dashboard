@@ -1,30 +1,30 @@
 # Covid-19-dashboard
-📌 Project Title / Headline
+1. Project Title / Headline
 
 COVID-19 Interactive Dashboard using Power BI
 
-📝 Short Description
+2. Short Description
 
 An interactive Power BI dashboard designed to analyze and visualize COVID-19 data across different countries and time periods. The dashboard provides insights into confirmed cases, recoveries, deaths, and trends using dynamic visuals and user-friendly filters.
 
-🛠️ Tech Stack
+3. Tech Stack
 Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query Editor
 Microsoft Excel / CSV Files
 
-📂 Data Source
+4. Data Source
 Public datasets from WHO (World Health Organization)
 Kaggle COVID-19 datasets
 Government health data 
 
-✨ Features / Highlights
+5. Features / Highlights
 📊 Interactive dashboard with slicers and filters
 📈 Time-series analysis of COVID-19 cases
 🌍 Country-wise and region-wise comparison
 📉 KPIs showing total confirmed, recovered, and death cases
 
-📊 Multiple visualizations:
+6.Multiple visualizations:
 Line Chart
 Stacked Bar Chart
 Clustered Bar Chart
@@ -47,12 +47,12 @@ Identify high-risk countries/regions
 Analyze trends over time for better decision-making
 Enable quick filtering by date, country, and case type
 
-💡 Key Insights
+7. Key Insights
 📈 Significant spikes observed during specific time periods (waves)
 🌍 Certain countries show higher recovery rates compared to others
 ⚠️ Death rates vary based on region and healthcare response
 📊 Active cases trend helps identify peak pandemic periods
 📉 Gradual decline in cases after vaccination rollouts (if included in dataset)
 
- Screenshots / Demo
+8. Screenshots / Demo
 🖥️ Dashboard Overview = https://github.com/bharathkumarrayappan-ops/Covid-19-dashboard/blob/main/Screenshot%20(45).png
